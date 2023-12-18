@@ -20,6 +20,8 @@ const glados = async () => {
       'Checkin OK',
       `${checkin.message}`,
       `Left Days ${Number(status.data.leftDays)}`,
+      `Life was a box of chocolates,you never know what you're gonna get.`,
+      `We laughed and kept saying"see u soon",but inside we both knew we'd never see each other again.`
     ]
   } catch (error) {
     return [
